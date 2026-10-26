@@ -1,0 +1,2 @@
+# FikrAI
+Test uchun 
